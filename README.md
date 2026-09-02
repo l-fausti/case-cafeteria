@@ -26,10 +26,10 @@ Pedido reativado entra no fim da fila — não recupera a posição original.
 
 🗂️ Estrutura do projeto
 
-CafeteriaPOO/
-├── CafeteriaPOO.csproj
-├── Program.cs          # roteiro de testes (Main)
-├── Cafeteria.cs         # classe orquestradora (Dictionary + Queue + Stack)
+CaseCafeteria/
+├── CaseCafeteria.csproj
+├── Program.cs           # roteiro de testes (Main)
+├── Cafeteria.cs          # classe orquestradora (Dictionary + Queue + Stack)
 └── Models/
     ├── Produto.cs
     └── Pedido.cs
