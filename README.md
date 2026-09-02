@@ -25,13 +25,8 @@ Não é possível calcular o total de um pedido com produto que não existe no c
 Pedido reativado entra no fim da fila — não recupera a posição original.
 
 🗂️ Estrutura do projeto
-CafeteriaPOO/
-├── CafeteriaPOO.csproj
-├── Program.cs          # roteiro de testes (Main)
-├── Cafeteria.cs         # classe orquestradora (Dictionary + Queue + Stack)
-└── Models/
-    ├── Produto.cs
-    └── Pedido.cs
+<img width="603" height="191" alt="image" src="https://github.com/user-attachments/assets/fe20096a-d6f7-4877-a5ed-077090093d23" />
+
 
 🧪 Cenários de testes sugerido
 
