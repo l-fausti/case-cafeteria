@@ -9,7 +9,7 @@ namespace CaseCafeteria.Model
     {
         public int Numero { get; set; }
         public string NomeCliente { get; set; }
-        List<string> Itens { get; set; } = new List<string>();
+        public List<string> Itens { get; set; } = new List<string>();
 
         private static int contador = 0;
  

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "v/m9fe9DPSY=",
+  "dgSpecHash": "Nqca7yvXX1g=",
   "success": true,
   "projectFilePath": "C:\\dotnet\\Projetos\\CaseCafeteria\\CaseCafeteria.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\languageext.core\\4.4.9\\languageext.core.4.4.9.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
