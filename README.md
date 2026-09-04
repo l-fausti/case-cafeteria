@@ -18,6 +18,7 @@ Pedido cancelado antes de ser atendido sai da fila e vai para uma pilha de "canc
 Métodos: cancelar um pedido específico (por número); reativar o último cancelado, voltando para o fim da fila.
 
 ⚠️ Regras de negócio
+
 Não é possível atender pedido se a fila estiver vazia.
 
 Não é possível calcular o total de um pedido com produto que não existe no cardápio (tratar erro).
